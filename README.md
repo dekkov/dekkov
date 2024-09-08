@@ -1,1 +1,1 @@
-CS sophomore @ Oregon State University
+CS Undergraduate @ Oregon State University
