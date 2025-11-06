@@ -9,7 +9,7 @@
 <details>
 <summary><b>Garfield</b></summary>
 
-![garfield](static/garfield.png)
+![garfield](garfield.png)
 
 I don't know what you expected.
 </details>
