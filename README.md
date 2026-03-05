@@ -6,6 +6,7 @@
 - 🌐️ Website: [dekkov.github.io/portfolio/](https://dekkov.github.io/portfolio/)
 - 🤝 Linkedin: [hoangtran1](https://linkedin.com/in/hoangtran1)
 - 💼 Resume: [resume.pdf](https://github.com/dekkov/resume/blob/main/Resume2026.pdf)
+- 𝕏 X: [HoangTran2273](https://x.com/HoangTran2273)
 
 
 <picture>
