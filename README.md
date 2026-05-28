@@ -3,7 +3,7 @@
 
 - 🤖 AI optimist
 - 💻️ Programming Languages: C++, C#, Python, and others
-- 🌐️ Website: [dekkov.github.io/portfolio/](https://dekkov.github.io/portfolio/)
+- 🌐️ Website: [https://portfolio.trhoang220703.workers.dev/](https://portfolio.trhoang220703.workers.dev/)
 - 🤝 Linkedin: [hoangtran1](https://linkedin.com/in/hoangtran1)
 - 💼 Resume: [resume.pdf](https://github.com/dekkov/resume/blob/main/Resume2026.pdf)
 - 🐦 X: [HoangTran2273](https://x.com/HoangTran2273)
